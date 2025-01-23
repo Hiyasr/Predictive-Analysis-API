@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+python-multipart
+
+Generate it with:
+pip freeze > requirements.txt
