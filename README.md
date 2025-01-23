@@ -83,7 +83,7 @@ The API will be accessible at `http://127.0.0.1:8000`.
 - **Response**:
   ```json
   {
-    "Downtime": "Yes",
+    "Downtime": "No",
     "Confidence": 0.87
   }
   ```
