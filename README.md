@@ -126,4 +126,4 @@ The model uses **Logistic Regression** (by default) to predict machine downtime.
 - Deploy the API on a cloud platform like AWS or Heroku.
 
 ## License
-This project is open-source and available under the MIT License.
+rights of the projects owned by the creator.
